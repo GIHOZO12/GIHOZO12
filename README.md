@@ -72,7 +72,8 @@ My work focuses on **performance, clean architecture, automation, and real-world
 ## Achievements & Experience
 
 - 2nd Place — Hello Tractor E-commerce Hackathon  
-- Software Engineering Training — THE GYM Rwanda  
+- Software Engineering Training — SOLVIT AFRICA
+- Software developer - Urban evolution group  
 
 ---
 
